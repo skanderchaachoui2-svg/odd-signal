@@ -1,0 +1,1 @@
+{"name":"odd-signals","version":"1.0.0","private":true,"scripts":{"start":"node server/server.js"},"engines":{"node":">=20"},"dependencies":{"cors":"^2.8.5","discord.js":"^14.21.0","dotenv":"^16.6.1","express":"^5.1.0","express-session":"^1.18.2"}}
